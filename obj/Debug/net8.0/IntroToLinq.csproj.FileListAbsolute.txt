@@ -1,0 +1,14 @@
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\IntroToLinqDemo\IntroToLinq\bin\Debug\net8.0\IntroToLinq.exe
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\IntroToLinqDemo\IntroToLinq\bin\Debug\net8.0\IntroToLinq.deps.json
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\IntroToLinqDemo\IntroToLinq\bin\Debug\net8.0\IntroToLinq.runtimeconfig.json
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\IntroToLinqDemo\IntroToLinq\bin\Debug\net8.0\IntroToLinq.dll
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\IntroToLinqDemo\IntroToLinq\bin\Debug\net8.0\IntroToLinq.pdb
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\IntroToLinqDemo\IntroToLinq\obj\Debug\net8.0\IntroToLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\IntroToLinqDemo\IntroToLinq\obj\Debug\net8.0\IntroToLinq.AssemblyInfoInputs.cache
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\IntroToLinqDemo\IntroToLinq\obj\Debug\net8.0\IntroToLinq.AssemblyInfo.cs
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\IntroToLinqDemo\IntroToLinq\obj\Debug\net8.0\IntroToLinq.csproj.CoreCompileInputs.cache
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\IntroToLinqDemo\IntroToLinq\obj\Debug\net8.0\IntroToLinq.dll
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\IntroToLinqDemo\IntroToLinq\obj\Debug\net8.0\refint\IntroToLinq.dll
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\IntroToLinqDemo\IntroToLinq\obj\Debug\net8.0\IntroToLinq.pdb
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\IntroToLinqDemo\IntroToLinq\obj\Debug\net8.0\IntroToLinq.genruntimeconfig.cache
+D:\Diploma\C#\OOP\Route\Advanced\04 -Events\IntroToLinqDemo\IntroToLinq\obj\Debug\net8.0\ref\IntroToLinq.dll
